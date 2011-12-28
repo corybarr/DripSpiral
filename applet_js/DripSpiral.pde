@@ -15,7 +15,7 @@ int curEllipseXSize;
 int curEllipseYSize;
 
 void setup() {
-  size(500, 500);
+  size(800, 600);
   curRotation = 0;
   crawlRateY = 5;
   crawlRateX = 0;
